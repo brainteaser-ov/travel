@@ -1,0 +1,10 @@
+{
+  "docx_path": "/Users/oksanagoncarova/Downloads/фрегат.docx",
+  "output_dir": "/Users/oksanagoncarova/Downloads/фрегат_analysis_outputs",
+  "n_sections": 24,
+  "n_segments": 290,
+  "n_events": 2324,
+  "n_persons": 20,
+  "n_places": 65,
+  "best_k": 4
+}
